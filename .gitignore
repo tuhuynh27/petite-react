@@ -1,0 +1,10 @@
+coverage
+node_modules
+
+.DS_Store
+.idea
+
+.tests
+.cache
+
+dist
